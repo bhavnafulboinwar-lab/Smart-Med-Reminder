@@ -5,6 +5,7 @@ The Smart Medicine Reminder System is a web-based application that has been deve
 Medication management is an important aspect of healthcare, particularly in elderly patients and patients with chronic diseases. If you miss a dose of medication or take it late, it can cause severe health problems. Traditional methods like paper schedules and manual reminders don’t usually work.
 
 The Smart Medicine Reminder System (SMRS) is a digital solution that allows users to schedule medicines, receive reminders and monitor their medication history through an easy-to-use web interface. We want the system to be efficient, easy to use, accessible.
+
 ## Literature review
 Several studies have shown that medication non-adherence is a major healthcare challenge worldwide. Traditional reminder methods such as alarms and paper-based schedules often fail to provide effective tracking and management.
 
